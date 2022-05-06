@@ -9,6 +9,8 @@ This project is entirely educational and I am not in support of using Cheats in 
 <img src="https://imgur.com/IyxGsdQ.png">
 
 References:<br>
+https://github.com/MarktwainSTDLL/CPP_BASIC_TO_ADVANCED/
+<br>
 https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-findwindowa
 <br>
 https://docs.microsoft.com/pt-br/windows/win32/inputdev/virtual-key-codes
